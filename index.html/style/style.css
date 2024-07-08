@@ -78,3 +78,67 @@ margin-top: 48px;
    height: 500px;
    margin-top: 48px;
 }
+/* party content */
+.party-content{
+    width: 1320px;
+    height: 600px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    display: flex;
+    background-image: url("../images/Vectorrr.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin-top: 120px;
+    background-color: rgb(0, 0, 0, 0.3);
+    background-blend-mode: overlay;
+
+}
+.party-colum{
+    width: 70%;
+    height: 600px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color:rgb(0, 0, 0, 0.7) ; */
+    /* background-blend-mode: overlay; */
+}
+.party-colum h1{
+    font-size: 64px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+}
+.party-colum p{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.8);
+    padding-left: 180px;
+    margin-top: 24px;
+
+}
+.party-colum1{
+    width: 50%;
+    height: 600px;
+    /* border: 2px solid red; */
+
+}
+.party-btn{
+    font-size: 20px;
+font-weight: 700;
+color: rgb(255, 255, 255);
+margin-top: 50px;
+padding-right: 330px;
+}
+.party-colum1{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.party-colum1 img{
+    width: 349.16px;
+   height: 464.65px;
+}
