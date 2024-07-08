@@ -204,4 +204,39 @@ margin-top: 105px;
     width: 305.69px;
 height: 305.69px;
 }
+.protfolio-content{
+    width: 1320px;
+height: 1163px;
+border: 2px solid red;
+margin: 0 auto;
+margin-top: 120px;
+}
+/* protfolio style */
+.protfolio-text h5{
+    color: rgb(255, 0, 0);
+    font-size: 24px;
+font-weight: 50px;
 
+}
+.protfolio-text h1{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 12px;
+}
+.protfolio-text p{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+margin-top: 16px;
+}
+.protfolio-item{
+    width: 424px;
+height: 450px;
+margin-top: 48px;
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 24px;
+}
