@@ -42,3 +42,39 @@ body{
     font-size: 72px;
     font-weight: 900;
 }
+.title{
+    
+    width: 802.9px;
+    height: 806px;
+    margin: 0px auto;
+    /* border: 2px solid red; */
+    margin-top: 90px;
+}
+.title-contant h1{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+text-align: center;
+
+}
+.title-contant p{
+    color: rgb(255, 0, 0);
+/* font-family: Inter; */
+font-size: 22px;
+font-weight: 400;
+text-align: center;
+margin-top: 48px;
+}
+.title-contant h3{
+    color: rgb(7, 2, 17);
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 16;
+}
+.image {
+    width: 802.9px;
+   height: 500px;
+   margin-top: 48px;
+}
